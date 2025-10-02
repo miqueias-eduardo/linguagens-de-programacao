@@ -30,7 +30,7 @@ A ideia foi criar uma **página informativa e estilizada**, com foco em praticar
 
 ## 🌐 Acesse o projeto no GitHub Pages
 
-🔗 **[Clique aqui para acessar](https://miqueias-eduardo.github.io/linguagens-de-programação/)**  
+🔗 **[Clique aqui para acessar](https://miqueias-eduardo.github.io/linguagens-de-programacao/)**  
 > 
 
 ---
